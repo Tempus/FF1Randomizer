@@ -1557,6 +1557,12 @@
 		"description": "Guarantees you will be offered a balanced party of classes, including: a heavy armor class, an agility or luck class, an unarmed or low armor class, a white magic recovery class, an offensive mage class, and a hybrid class."
 	},
 	{
+		"Id": "GuaranteeCustomClassCompositionCheckBox",
+		"title": "Guarantee Custom Class Composition",
+		"screenshot": null,
+		"description": "Guarantees you will be offered a balanced party of classes, including: a heavy armor class, an agility or luck class, an unarmed or low armor class, a white magic recovery class, an offensive mage class, and a hybrid class."
+	},
+	{
 		"Id": "MooglieWeaponBalanceCheckBox",
 		"title": "Balance Weapons for Customs",
 		"screenshot": null,
